@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jitesh Mulchandani</title>
-    <link>http://localhost:1313/</link>
+    <link>https://jiteshmulchandani.com/</link>
     <description>Recent content on Jitesh Mulchandani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 13 Sep 2016 23:59:18 -0700</lastBuildDate>
     
-	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jiteshmulchandani.com/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>here we go!</title>
-      <link>http://localhost:1313/posts/here-we-go/</link>
+      <link>https://jiteshmulchandani.com/posts/here-we-go/</link>
       <pubDate>Tue, 13 Sep 2016 23:59:18 -0700</pubDate>
       
-      <guid>http://localhost:1313/posts/here-we-go/</guid>
+      <guid>https://jiteshmulchandani.com/posts/here-we-go/</guid>
       <description>This is a test post
 Can try out different features here:
 testing a code block
@@ -25,19 +25,19 @@ testing a code block
     
     <item>
       <title>projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>https://jiteshmulchandani.com/projects/</link>
       <pubDate>Wed, 14 Sep 2016 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>https://jiteshmulchandani.com/projects/</guid>
       <description>Entwined Entwined is a game about two souls, a bird and a fish, that are in love but can’t be together. Once united, the two souls will transform into a magnificent soaring dragon. Its available on PS4, PS3, Vita, iOS and Android. Ninja ChallengeIt uses head tracking as a gameplay mechanic. The player should move their head to the designed position to find the weak spot on the ninjas and punch them.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/about/</link>
+      <link>https://jiteshmulchandani.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>https://jiteshmulchandani.com/about/</guid>
       <description>Hi! I&amp;rsquo;m Jitesh. I am currently working as a programmer at Sony&amp;rsquo;s PixelOpus Studio in San Mateo. We released our first game called Entwined for PS4, PS3, PS Vita, iOS and Android. It is the first commercial game that I worked on and will always have a special place in my heart.
 Before joining Sony, I got my Masters in Entertainment Technology from Carnegie Mellon&amp;rsquo;s Entertainment Technology Center (ETC). During this period, I did an internship at Microsoft where I worked with the Kinect Fun Labs team to create a bite-sized experience called Ninja Challenge.</description>
     </item>

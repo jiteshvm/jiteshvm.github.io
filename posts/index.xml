@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Jitesh Mulchandani</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on Jitesh Mulchandani</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 13 Sep 2016 23:59:18 -0700</lastBuildDate>
+    
+	<atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>here we go!</title>
+      <link>http://localhost:1313/posts/here-we-go/</link>
+      <pubDate>Tue, 13 Sep 2016 23:59:18 -0700</pubDate>
+      
+      <guid>http://localhost:1313/posts/here-we-go/</guid>
+      <description>This is a test post
+Can try out different features here:
+testing a code block
+#include&amp;lt;stdio.h&amp;gt; int main() { int a = 0; return a; }  </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,2 +1,2 @@
 # jiteshvm.github.io
-repository for jiteshmulchandani.com
+repository for jiteshvm.github.io

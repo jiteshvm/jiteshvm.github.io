@@ -6,21 +6,18 @@
     <description>Recent content on Jitesh Mulchandani</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 13 Sep 2016 23:59:18 -0700</lastBuildDate>
+    <lastBuildDate>Sat, 04 Aug 2018 23:59:18 -0700</lastBuildDate>
     
 	<atom:link href="https://jiteshvm.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>here we go!</title>
-      <link>https://jiteshvm.github.io/posts/here-we-go/</link>
-      <pubDate>Tue, 13 Sep 2016 23:59:18 -0700</pubDate>
+      <title>Using git submodules</title>
+      <link>https://jiteshvm.github.io/posts/using-git-submodules/</link>
+      <pubDate>Sat, 04 Aug 2018 23:59:18 -0700</pubDate>
       
-      <guid>https://jiteshvm.github.io/posts/here-we-go/</guid>
-      <description>This is a test post
-Can try out different features here:
-testing a code block
-#include&amp;lt;stdio.h&amp;gt; int main() { int a = 0; return a; }  </description>
+      <guid>https://jiteshvm.github.io/posts/using-git-submodules/</guid>
+      <description>Suppose you have a repository called mainrepo and another repository called subrepo that you want to use inside mainrepo. You can just clone subrepo inside mainrepo and use it. However, if subrepo gets updated frequently, then you will have to clone it everytime and replace it inside mainrepo. If you want to view the history of commits made to subrepo , then you need to go to the remote repository where you cloned it from and see it there.</description>
     </item>
     
     <item>

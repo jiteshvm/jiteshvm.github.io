@@ -3,6 +3,18 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jiteshvm.github.io/</loc>
+    <lastmod>2018-08-04T23:59:18-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jiteshvm.github.io/posts/</loc>
+    <lastmod>2018-08-04T23:59:18-07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jiteshvm.github.io/posts/using-git-submodules/</loc>
     <lastmod>2018-08-04T23:59:18-07:00</lastmod>
   </url>
@@ -23,15 +35,7 @@
   </url>
   
   <url>
-    <loc>https://jiteshvm.github.io/</loc>
-    <lastmod>2018-08-04T23:59:18-07:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jiteshvm.github.io/posts/</loc>
-    <lastmod>2018-08-04T23:59:18-07:00</lastmod>
-    <priority>0</priority>
+    <loc>https://jiteshvm.github.io/contact/</loc>
   </url>
   
   <url>
